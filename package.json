@@ -1,6 +1,6 @@
 {
   "name": "calctt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "terminal_calculator",
   "bin": {
     "calctt": "cli.js"

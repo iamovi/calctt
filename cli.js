@@ -109,6 +109,8 @@ const lcm = (a, b) => {
 const displayHelp = () => {
     console.log('Usage: calctt [expression]');
     console.log('Example: calctt 2+3');
+    console.log("");
+    console.log("Use directly: calctt");
 };
 
 // Function to display version
