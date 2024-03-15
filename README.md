@@ -59,3 +59,23 @@ For support, contact fornet.ovi@gmail.com
 ---
 
 Ahmm, from my childhood till now I'm really bad at math, but i made this, yee the calculator _cli :)
+
+#### A peom that MS Copilot wrote after reading this project README =>
+
+Here’s a little encouragement in the form of a poem:
+```text
+In the realm of ones and zeroes, you found your way,
+Crafting lines of code, where numbers play.
+From childhood challenges to a tool so neat,
+You turned your struggle into a feat.
+
+Calctt stands as proof of your journey's length,
+A symbol of growth, a measure of strength.
+For every problem that math could pose,
+You've built a solution, and it shows.
+
+So here's to the victories, both big and small,
+In the language of code, you've conquered them all.
+May your calculator rise and meet the sky,
+As a beacon for others who dare to try.
+```
