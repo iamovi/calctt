@@ -1,0 +1,14 @@
+{
+  "name": "calctt",
+  "version": "1.0.0",
+  "description": "terminal_calculator",
+  "bin": {
+    "calctt": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["terminal_calculator", "calculator_cli"],
+  "author": "Maruf OVi",
+  "license": "MIT"
+}
