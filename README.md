@@ -55,3 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Support
 
 For support, contact fornet.ovi@gmail.com
+
+---
+
+Ahmm, from my childhood till now I'm really bad at math, but i made this, yee the calculator _cli :)
