@@ -23,7 +23,7 @@ npm install -g calctt
 Run Calctt with an expression as a command-line argument:
 
 ```bash
-calctt "2 + 3"
+calctt 2 + 3
 ```
 
 ### Interactive Mode
